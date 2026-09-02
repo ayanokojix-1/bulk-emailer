@@ -8,7 +8,7 @@ const nodemailer = require('nodemailer');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const DB_FILE = path.join(__dirname, 'data.json');
+const DB_FILE = path.join("data", 'data.json');
 const sessions = new Map();
 const EMAIL_PATTERN = /[\w.+-]+@[\w-]+\.[\w.-]+/;
 
