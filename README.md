@@ -14,6 +14,7 @@ Create saved contact batches, compose a personalized campaign, and send each ema
 - Sends emails individually, never as a group message.
 - Tracks sent contacts and recent campaign activity.
 - Responsive browser interface.
+- Installable PWA with an offline app shell and a custom BulkSend icon.
 
 ## Requirements
 

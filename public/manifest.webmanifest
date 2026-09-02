@@ -1,0 +1,10 @@
+{
+  "name": "BulkSend — Professional Email Campaigns",
+  "short_name": "BulkSend",
+  "description": "A focused workspace for professional email campaigns.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#315f4c",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
